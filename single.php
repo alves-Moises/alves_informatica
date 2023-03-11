@@ -33,10 +33,10 @@
 
           <?php get_template_part('template-parts/post/get_prev-next-posts'); ?>
 
-          <div class="comments">
+          <!-- <div class="comments">
             <h2>Comentários</h2>
             <?php support_comments_facebook('post'); ?>
-          </div>
+          </div> -->
 
         </article>
       </div> <!-- /.col-lg-8 -->
