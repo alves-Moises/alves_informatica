@@ -16,7 +16,7 @@
                     <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                         <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                     </div>
-                    <img class="img-fluid" src="<?= THEMEROOT ?>/assets/img/template/portfolio/cabin.png" alt="..." />
+                    <img class="img-fluid" src="<?= THEMEROOT ?>/assets/img/servicos/1_informatica.jpg" alt="Informática">
                 </div>
             </div>
             <!-- Portfolio Item 2-->
@@ -25,7 +25,7 @@
                     <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                         <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                     </div>
-                    <img class="img-fluid" src="<?= THEMEROOT ?>/assets/img/template/portfolio/cake.png" alt="..." />
+                    <img class="img-fluid" src="<?= THEMEROOT ?>/assets/img/servicos/2_smartphone.jpg" alt="Smartphone">
                 </div>
             </div>
             <!-- Portfolio Item 3-->
@@ -34,7 +34,7 @@
                     <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                         <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                     </div>
-                    <img class="img-fluid" src="<?= THEMEROOT ?>/assets/img/template/portfolio/circus.png" alt="..." />
+                    <img class="img-fluid" src="<?= THEMEROOT ?>/assets/img/servicos/3_video-game.jpg" alt="Video-game">
                 </div>
             </div>
             <!-- Portfolio Item 4-->
@@ -43,7 +43,7 @@
                     <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                         <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                     </div>
-                    <img class="img-fluid" src="<?= THEMEROOT ?>/assets/img/template/portfolio/game.png" alt="..." />
+                    <img class="img-fluid" src="<?= THEMEROOT ?>/assets/img/servicos/4_eletronico.jpg" alt="Eletronico">
                 </div>
             </div>
             <!-- Portfolio Item 5-->
@@ -52,18 +52,11 @@
                     <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                         <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                     </div>
-                    <img class="img-fluid" src="<?= THEMEROOT ?>/assets/img/template/portfolio/safe.png" alt="..." />
+                    <img class="img-fluid" src="<?= THEMEROOT ?>/assets/img/servicos/5_dev-web.png" alt="Desenvolvimento web">
                 </div>
             </div>
-            <!-- Portfolio Item 6-->
-            <div class="col-md-6 col-lg-4">
-                <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal6">
-                    <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                        <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                    </div>
-                    <img class="img-fluid" src="<?= THEMEROOT ?>/assets/img/template/portfolio/submarine.png" alt="..." />
-                </div>
-            </div>
+
+    
         </div>
     </div>
 </section>
