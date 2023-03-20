@@ -38,7 +38,7 @@
 				<p>Um desenvolvimento <a href="https://imadeveloper.com.br/" target="_blank" rel="noopener" title="IMADEVELOPER">
 						<img
 							src="<?= THEMEROOT ?>/assets/img/logo/LOGO-BLACK.png"
-							alt="Comet" height="28"
+							alt="ImaDEV" height="28"
 						>
 					</a>
 				</p>
@@ -49,7 +49,7 @@
 
 <?php wp_footer(); ?>
 
-<?php support_comments_facebook(); ?>
+<!-- <?php support_comments_facebook(); ?> -->
 <!-- Bootstrap core JS-->
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 		<!-- Core theme JS-->
@@ -58,7 +58,7 @@
         <!-- * *                               SB Forms JS                               * *-->
         <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
         <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
-        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+	<script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
 </body>
 
 </html>

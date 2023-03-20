@@ -11,14 +11,26 @@
         </div>
         <!-- About Section Content-->
         <div class="row">
-            <div class="col-lg-4 ms-auto"><p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
-            <div class="col-lg-4 me-auto"><p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
+            <div class="col-lg-4 ms-auto"><p class="lead">
+                Somos especializados em reparos de notebooks, computadores, video games e outros dispositivos. 
+                Oferecemos um serviço de qualidade, com profissionais extremamente qualificados e preparados para quaisquer intercorrências com os equipamentos em reparo.
+            </div>
+            
+            
+            <div class="col-lg-4 ms-auto">
+                <p class="lead">
+                    Além de reparos, também oferecemos serviços de manutenção preventiva  para ajudá-lo a prolongar a vida útil dos seus dispositivos.</p></div>
+                </p>
+            </div>
         </div>
         <!-- About Section Button-->
         <div class="text-center mt-4">
-            <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
+            <a 
+            class="btn btn-xl btn-outline-light" 
+            href="https://wa.me/5522999668509?text=Olá,+encontrei+sua+empresa+pelo+seu+site!+Gostaria+de+fazer+um+orçamento+:)"
+            >
                 <i class="fas fa-download me-2"></i>
-                Free Download!
+                Entre em contato!
             </a>
         </div>
     </div>
