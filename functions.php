@@ -7,12 +7,12 @@ require_once('inc/_framework/framework.php');
 # =           CSS Files           =
 # =================================
 /*----------  New CSS Default  ----------*/
+new_css('main-default', 'assets/css/main.css');
 new_css('animate-default', 'assets/plugins/wow/css/animate.css');
 new_css('bootstrap-default', 'assets/css/bootstrap/bootstrap.css');
 new_css('fontawesome-default', 'assets/plugins/fontawesome/css/all.min.css');
 new_css('lightgallery-default', 'assets/plugins/lightgallery/css/lightgallery.min.css');
 new_css('owl-carousel-default', 'assets/plugins/owl-carousel/css/owl.carousel.min.css');
-new_css('main-default', 'assets/css/main.css');
 new_css('style-default', 'style.css');
 
 /*----------  Use CSS Default  ----------*/
