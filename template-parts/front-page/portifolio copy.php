@@ -16,13 +16,11 @@
             <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
             <div class="divider-custom-line"></div>
         </div>
+
         <!-- Portfolio Grid Items-->
         <div class="row justify-content-center">
-
-
-
-<?php get_template_part("template-parts/post/filter_category"); ?>
-
+            <?php get_template_part("template-parts/post/filter_category"); ?>
         </div>
+
     </div>
 </section>
