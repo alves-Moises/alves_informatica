@@ -1,0 +1,33 @@
+.card-servicos {
+    div{
+        .card-servicos-vertical-center{
+            h5{
+                display:flex;
+                align-items: center;
+                justify-content: center;
+                
+            }
+
+        }
+        .card-servicos-title{
+            height: 100px;
+            padding: 0 10px;
+        }
+
+        .btn-servicos{
+            a{
+                width: 100%;
+                color: black;
+            }
+            margin: 15px 0;
+            
+        }    
+        .btn-servicos:hover{
+            a{
+                color: white;
+            }
+        }
+
+    }
+}
+
