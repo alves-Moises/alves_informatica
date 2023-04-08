@@ -6,7 +6,9 @@
 
 <?php if(get_the_category()[0]->name == "portifolio_servicos"): ?>
 
-    <div class="col-md-6 col-lg-4 mb-5">
+    
+    <div class="col-md-6 col-lg-4 mb-5 justify-content-center div-card">
+        
         <div class="card card-servicos" style="width: 18rem;">
 
             <?php 
@@ -29,7 +31,6 @@
                 </div>
 
                 <div class="btn-servicos">
-
                     <a href="#" class="btn btn-primary">
                         Leia mais
                     </a>
