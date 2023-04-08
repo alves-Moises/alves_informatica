@@ -1,4 +1,9 @@
-.card-servicos {
+.div-card{ //div que engloba o card
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-servicos {  //div do card em si
     div{
         .card-servicos-vertical-center{
             h5{
