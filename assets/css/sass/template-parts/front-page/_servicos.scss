@@ -1,38 +1,90 @@
-.div-card{ //div que engloba o card
+.container-title{
     display: flex;
-    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+
 }
+.conteiner-card {
+    display: flex;
+    margin: 0 auto;
+    padding: 0 2%;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
 
-.card-servicos {  //div do card em si
-    div{
-        .card-servicos-vertical-center{
-            h5{
-                display:flex;
-                align-items: center;
-                justify-content: center;
-                
+
+    .div-card {
+        min-height: 490px;
+        //div que engloba o card
+        display: flex;
+        flex-direction: column;
+        max-width: 310px;
+       
+
+     
+        
+
+        >.card-servicos {
+            //div do card em si
+            background-color: aqua;
+
+            div {
+                .card-servicos-vertical-center {
+                    h5 {
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+
+                    }
+
+                }
+
+                .card-servicos-title {
+                    height: 100px;
+                    padding: 0 10px;
+                }
+
+                .btn-servicos {
+                    a {
+                        width: 100%;
+                        color: black;
+                    }
+
+                    margin: 15px 0;
+
+                }
+
+                .btn-servicos:hover {
+                    a {
+                        color: white;
+                    }
+                }
+
             }
 
-        }
-        .card-servicos-title{
-            height: 100px;
-            padding: 0 10px;
+            .img-fluid{
+                min-height: 230px;
+                max-height: 230px;
+                @media (max-width: 767px) {
+                    aspect-ratio: 4/3;
+                    min-height: 300px;
+                    max-height: 300px;
+                }
+            }
+            &:hover {
+                transform: scale(1.1);
+                transition: all .85s ease;
+
+            }
         }
 
-        .btn-servicos{
-            a{
-                width: 100%;
-                color: black;
-            }
-            margin: 15px 0;
+        @media (max-width: 767px) {
+            min-width: 90%;            
             
-        }    
-        .btn-servicos:hover{
-            a{
-                color: white;
-            }
         }
-
     }
 }
-

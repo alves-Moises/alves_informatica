@@ -7,9 +7,9 @@
 <?php if(get_the_category()[0]->name == "portifolio_servicos"): ?>
 
     
-    <div class="col-md-6 col-lg-4 mb-5 justify-content-center div-card">
+    <div class="div-card">
         
-        <div class="card card-servicos" style="width: 18rem;">
+        <div class="card card-servicos">
 
             <?php 
                 echo get_the_post_thumbnail(
