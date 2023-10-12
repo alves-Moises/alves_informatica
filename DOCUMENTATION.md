@@ -8,4 +8,7 @@ Version: 1.0.0
 
 - COPY LINE BELOW
 
+gem install compass
+gem install sass
+
   sass assets/css/sass/main.scss:assets/css/main.css --style=compressed --watch
