@@ -1,0 +1,25 @@
+
+.hire-cards {
+    display: grid;
+}
+.why-hire {
+    .subtitle {
+        margin-bottom: 30px !important;
+    }
+}
+.hire_card {
+    padding: 20px;
+    height: 220px;
+    // background-color: #abd;
+    h4 {
+        margin-top: 50px;
+    }
+    
+}
+.hire_card:hover {
+    transform: scale(1.1);
+    transform: translateY(-5px);
+
+    // background-color: rgb(33, 33, 94);
+}
+
