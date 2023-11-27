@@ -1,18 +1,36 @@
 
-.hire-cards {
-    display: grid;
-}
 .why-hire {
     .subtitle {
-        margin-bottom: 30px !important;
+        margin-bottom: 50px !important;
+        color: #f2eff2 !important;
     }
 }
+
+#why-to-hire {
+    background-color: #323;
+
+    .container {
+        height: auto;
+    }
+}
+.hire-cards {
+    display: flex !important;
+    color: #ddd;
+}
 .hire_card {
+    background: #212;
     padding: 20px;
-    height: 220px;
+
+    border-color: #330033;
+    // border-width: 7px;
+    border-radius: 45px;
+    // height: 220px;
     // background-color: #abd;
+    flex-wrap: wrap;
+    box-shadow: 5px 10px 20px 9px #2c002c;
+    
     h4 {
-        margin-top: 50px;
+        // margin-top: 50px;
     }
     
 }
@@ -21,5 +39,10 @@
     transform: translateY(-5px);
 
     // background-color: rgb(33, 33, 94);
+}
+
+#cor do icone
+.i-vantagens {
+    color:#ddd5dd;
 }
 
