@@ -1,0 +1,32 @@
+.about-section {
+    background-color: var(--my-smooth-blue);
+}
+
+#display-google-map {
+    img{
+        max-height:none;
+        max-width:none!important;
+        background:none!important;
+    }
+}
+
+.half-size {
+    width: 50%;
+
+    p {
+        width:80% !important;
+    }
+}
+
+.btn-contact {
+    background-color: #678d66;
+    color: #efefef;
+}
+
+.btn-contact:hover {
+    background-color: #efefef !important;
+    color: #222 !important;
+}
+// .half-text {
+//     width: 80% !important;
+// }
