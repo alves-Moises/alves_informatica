@@ -21,4 +21,13 @@ a {
 section,
 footer {
   padding: $default-spacing-y $default-spacing-x;
+
+  .btn-wpp-footer{
+    background-color: #678d66;
+  }
+  .btn-wpp-footer:hover{
+    color: #678d66;
+    border-color: #678d66;
+  }
 }
+
