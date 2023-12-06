@@ -1,0 +1,17 @@
+:root {
+    --my_white: #efefef;
+    --my-smooth-blue: #5F76AA;
+    --my-dark-blue: #2A4474;
+}
+
+
+//cor do icone
+.i-vantagens {
+    color: var(--my_white);
+}
+.i-symbols {
+    color: var(--my_white);
+}
+.i-symbols-line {
+    background-color: var(--my_white) !important;
+}
