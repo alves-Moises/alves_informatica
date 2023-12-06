@@ -7,7 +7,7 @@
 }
 
 #why-to-hire {
-    background-color: #323;
+    background-color: #222;
 
     .container {
         height: auto;
@@ -16,22 +16,24 @@
 .hire-cards {
     display: flex !important;
     color: #ddd;
+    gap: 80px;
 }
 .hire_card {
-    background: #212;
+    background: var(--my-smooth-blue);
     padding: 20px;
 
-    border-color: #330033;
+    
+    // border-color: #330033;
     // border-width: 7px;
     border-radius: 45px;
     // height: 220px;
     // background-color: #abd;
     flex-wrap: wrap;
-    box-shadow: 5px 10px 20px 9px #2c002c;
+    box-shadow: 5px 10px 20px 9px #2A4474;
     
-    h4 {
-        // margin-top: 50px;
-    }
+    // h4 {
+    //     margin-top: 50px;
+    // }
     
 }
 .hire_card:hover {
@@ -41,8 +43,4 @@
     // background-color: rgb(33, 33, 94);
 }
 
-#cor do icone
-.i-vantagens {
-    color:#ddd5dd;
-}
 
