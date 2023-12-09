@@ -16,14 +16,14 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-12">
                             <!-- Portfolio Modal - Title-->
-                            <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0 text-center">
+                            <h2 class="portfolio-modal-title text-uppercase mb-0 text-center">
                                 Manutenção de computadores
                             </h2>
                             <!-- Icon Divider-->
                             <div class="divider-custom">
-                                <div class="divider-custom-line"></div>
-                                <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                                <div class="divider-custom-line"></div>
+                                <div class="divider-custom-line i-symbols-dark"></div>
+                                <div class="divider-custom-icon"><i class="fa-solid fa-computer i-symbols-dark"></i></div>
+                                <div class="divider-custom-line i-symbols-dark"></div>
                             </div>
 
                         </div>
@@ -61,7 +61,7 @@
                         </div>
                         <div class="text-center">
                             
-                            <button class="mt-4 btn btn-primary" data-bs-dismiss="modal">
+                            <button class="mt-4 btn btn-close-modal" data-bs-dismiss="modal">
                                 <i class="fas fa-xmark fa-fw"></i>
                                 Fechar
                             </button>
@@ -89,14 +89,14 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-12">
                             <!-- Portfolio Modal - Title-->
-                            <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0 text-center">
+                            <h2 class="portfolio-modal-title text-uppercase mb-0 text-center">
                                 Manutenção de smartphones
                             </h2>
                             <!-- Icon Divider-->
                             <div class="divider-custom">
-                                <div class="divider-custom-line"></div>
-                                <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                                <div class="divider-custom-line"></div>
+                                <div class="divider-custom-line i-symbols-line-dark"></div>
+                                <div class="divider-custom-icon"><i class="fa-solid fa-mobile-screen i-symbols-dark"></i></div>
+                                <div class="divider-custom-line i-symbols-line-dark"></div>
                             </div>
                         </div>
 
@@ -126,7 +126,7 @@
                         </div>
                         <div class="text-center">
 
-                            <button class="mt-4 btn btn-primary" data-bs-dismiss="modal">
+                            <button class="mt-4 btn btn-close-modal" data-bs-dismiss="modal">
                                 <i class="fas fa-xmark fa-fw"></i>
                                 Fechar
                             </button>
@@ -169,9 +169,9 @@
                             </h2>
                             <!-- Icon Divider-->
                             <div class="divider-custom">
-                                <div class="divider-custom-line"></div>
-                                <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                                <div class="divider-custom-line"></div>
+                                <div class="divider-custom-line i-symbols-line-dark"></div>
+                                <div class="divider-custom-icon"><i class="fa-solid fa-gamepad i-symbols-dark"></i></div>
+                                <div class="divider-custom-line i-symbols-line-dark"></div>
                             </div>
                         </div>
 
@@ -245,9 +245,9 @@
                             </h2>
                             <!-- Icon Divider-->
                             <div class="divider-custom">
-                                <div class="divider-custom-line"></div>
-                                <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                                <div class="divider-custom-line"></div>
+                                <div class="divider-custom-line i-symbols-line-dark"></div>
+                                <div class="divider-custom-icon"><i class="fas fa-star i-symbols-dark"></i></div>
+                                <div class="divider-custom-line i-symbols-line-dark"></div>
                             </div>
                         </div>
 
@@ -318,9 +318,9 @@
                             </h2>
                             <!-- Icon Divider-->
                             <div class="divider-custom">
-                                <div class="divider-custom-line"></div>
-                                <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                                <div class="divider-custom-line"></div>
+                                <div class="divider-custom-line i-symbols-line-dark"></div>
+                                <div class="divider-custom-icon"><i class="fas fa-star i-symbols-dark"></i></div>
+                                <div class="divider-custom-line i-symbols-line-dark"></div>
                             </div>
                             
                         </div>
@@ -340,8 +340,8 @@
                             <h6>Alguns de nossos serviços relacionados a desenvolvimento web:</h6>
                             <ul class="mt-5">
                                 <li>Desenvolvimento de Landing Page</li>
-                            <li>Manutenção de sites</li>
-                            <li>Atualização Wordpress</li>
+                                <li>Manutenção de sites</li>
+                                <li>Atualização Wordpress</li>
                             </ul>
                             
                         </div>
