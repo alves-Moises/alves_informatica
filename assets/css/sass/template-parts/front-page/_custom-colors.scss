@@ -2,6 +2,7 @@
     --my_white: #efefef;
     --my-smooth-blue: #5F76AA;
     --my-dark-blue: #2A4474;
+    --my-dark-black: #222;
 }
 
 
@@ -12,6 +13,14 @@
 .i-symbols {
     color: var(--my_white);
 }
+
 .i-symbols-line {
     background-color: var(--my_white) !important;
+}
+
+.i-symbols-dark {
+    color: var(--my-dark-black);
+}
+.i-symbols-line-dark {
+    background-color: var(--my-dark-black);
 }
