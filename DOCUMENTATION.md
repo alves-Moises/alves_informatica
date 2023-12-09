@@ -11,4 +11,8 @@ Version: 1.0.0
 gem install compass
 gem install sass
 
+To run:
   sass assets/css/sass/main.scss:assets/css/main.css --style=compressed --watch
+  
+If you prefer, just run the "compass-activate.py" and will activate the compass-watch:
+  py compass-activate.py
