@@ -7,6 +7,24 @@
     
 
 }
+
+
+.div-card {
+    border-style: solid;
+    border-color: #222;
+    border-radius: 0 0 0.5rem 0.5rem;
+    border-width: thin;
+    color: #c51e1e;
+
+
+}
+
+.div-card{
+    .portfolio-item-caption:hover {
+        background-color: #c51e1e9a !important;
+        // opacity: 0.5;
+    }
+}
 .conteiner-card {
     display: flex;
     margin: 0 auto;
@@ -16,17 +34,12 @@
     gap: 1rem;
     flex-wrap: wrap;
 
-
     .div-card {
         min-height: 490px;
         //div que engloba o card
         display: flex;
         flex-direction: column;
         max-width: 310px;
-       
-
-     
-        
 
         >.card-servicos {
             //div do card em si
