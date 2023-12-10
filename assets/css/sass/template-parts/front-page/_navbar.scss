@@ -1,0 +1,33 @@
+.bg-nav {
+    background-color: var(--my-dark-black);
+}
+
+.a-nav-link:hover {
+    color: var(--my-smooth-blue) !important;
+}
+
+.ul-nav-items{
+    .nav-item{
+        .active {
+            background-color: var(--my-dark-blue) !important;
+            color: #ddd !important;
+        }
+        
+        .active:hover {
+            color: #fff !important
+        }
+        
+    }
+}
+
+.b-menu {
+    background-color: var(--my-smooth-blue) !important;
+}
+
+.b-menu:hover {
+    background-color: var(--my-dark-blue) !important;
+}
+
+.b-menu:focus {
+    border-color: var(--my-smooth-blue)  !important;
+}
