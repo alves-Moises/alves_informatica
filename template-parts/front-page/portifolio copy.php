@@ -3,13 +3,13 @@
         <div class="container-title">
 
             <h2 class=
-            "page-section-heading
-            text-center
-            text-uppercase
-            text-secondary
-            mb-0"
+                "page-section-heading
+                text-center
+                text-uppercase
+                text-secondary
+                mb-0"
             >
-            Meus Serviços
+                Meus Serviços
             </h2>
             <!-- Icon Divider-->
             <div class="divider-custom">
