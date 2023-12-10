@@ -16,7 +16,11 @@
     border-width: thin;
     color: #c51e1e;
 
-
+    div {
+        .card-title {
+            margin: 0.5rem;
+        }
+    }
 }
 
 .div-card{
