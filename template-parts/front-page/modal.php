@@ -10,7 +10,15 @@
 >
     <div class="modal-dialog modal-xl">
         <div class="modal-content">
-            <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+            <div class="modal-header border-0">
+                <button 
+                    class="btn-close" 
+                    type="button" 
+                    data-bs-dismiss="modal" 
+                    aria-label="Close"
+                    >
+                </button></div>
+
             <div class="modal-body pb-5">
                 <div class="container">
                     <div class="row justify-content-center">
@@ -56,6 +64,7 @@
                                 <li>Manutenção de fonte</li>
                                 <li>Manutenção preventiva</li>
                                 <li>Configuração de impressora</li>
+                                <li>Configuração de rede</li>
                             </ul>
 
                         </div>
@@ -121,6 +130,7 @@
                                 <li>Substituição de componentes</li>
                                 <li>Formatação</li>
                                 <li>Aplicação de película</li>
+                                <li>Migração de dados</li>
                             </ul>
 
                         </div>
@@ -162,9 +172,9 @@
             <div class="modal-body pb-5">
                 <div class="container">
                     <div class="row justify-content-center">
-                        <div class="col-lg-8">
+                        <div class="col-lg-12">
                             <!-- Portfolio Modal - Title-->
-                            <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0 text-center">
+                            <h2 class="portfolio-modal-title text-uppercase mb-0 text-center">
                                 Manutençaõ de Video Games
                             </h2>
                             <!-- Icon Divider-->
@@ -176,6 +186,7 @@
                         </div>
 
                         <div class="col-lg-5">
+
                             <!-- Portfolio Modal - Image-->
                             <img 
                                 class="img-fluid rounded mb-5" 
@@ -203,7 +214,7 @@
 
                         <div class="text-center">
                             
-                            <button class="btn btn-primary" data-bs-dismiss="modal">
+                            <button class="mt-4 btn btn-close-modal" data-bs-dismiss="modal">
                                 <i class="fas fa-xmark fa-fw"></i>
                                 Fechar
                             </button>
@@ -240,13 +251,13 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-12">
                             <!-- Portfolio Modal - Title-->
-                            <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0 text-center">
+                            <h2 class="portfolio-modal-title text-uppercase mb-0 text-center">
                                 Manutenção de elertônicos em geral
                             </h2>
                             <!-- Icon Divider-->
                             <div class="divider-custom">
                                 <div class="divider-custom-line i-symbols-line-dark"></div>
-                                <div class="divider-custom-icon"><i class="fas fa-star i-symbols-dark"></i></div>
+                                <div class="divider-custom-icon"><i class="fa-solid fa-microchip"></i></div>
                                 <div class="divider-custom-line i-symbols-line-dark"></div>
                             </div>
                         </div>
@@ -263,9 +274,9 @@
                         
                         <div class="col-lg-5 p-3 pl-5">
                             <!-- Portfolio Modal - Text-->
-                            <H6 class="">
+                            <h6 class="">
                                 Nossos serviços relacionados a eletrônica geral:
-                            </H6>
+                            </h6>
                             <ul class="mt-5">
                                 <li>Troca de componentes</li>
                                 <li>Reparo em circuitos eletrônicos</li>
@@ -276,7 +287,7 @@
 
                         <div class="text-center">
                             
-                            <button class="btn btn-primary" data-bs-dismiss="modal">
+                            <button class="mt-4 btn btn-close-modal" data-bs-dismiss="modal">
                                 <i class="fas fa-xmark fa-fw"></i>
                                 Fechar
                             </button>
@@ -308,18 +319,19 @@
                 >
                 </button>
             </div>
+
             <div class="modal-body pb-5">
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-lg-12">
                             <!-- Portfolio Modal - Title-->
-                            <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0 text-center">
+                            <h2 class="portfolio-modal-title text-uppercase mb-0 text-center">
                                 Desenvolvimento Web
                             </h2>
                             <!-- Icon Divider-->
                             <div class="divider-custom">
                                 <div class="divider-custom-line i-symbols-line-dark"></div>
-                                <div class="divider-custom-icon"><i class="fas fa-star i-symbols-dark"></i></div>
+                                <div class="divider-custom-icon"><i class="fa-solid fa-code"></i></div>
                                 <div class="divider-custom-line i-symbols-line-dark"></div>
                             </div>
                             
@@ -347,7 +359,7 @@
                         </div>
                         <div class="text-center">
                             
-                            <button class="btn btn-primary" data-bs-dismiss="modal">
+                            <button class="mt-4 btn btn-close-modal" data-bs-dismiss="modal">
                                 <i class="fas fa-xmark fa-fw"></i>
                                 Fechar
                             </button>
@@ -355,6 +367,7 @@
                     </div>
                 </div>
             </div>
+            
         </div>
     </div>
 </div>
