@@ -1,5 +1,5 @@
 .about-section {
-    background-color: var(--my-smooth-blue);
+    background-color: var(--my-soft-black);
 }
 
 #display-google-map {
@@ -11,10 +11,15 @@
 }
 
 .half-size {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
     width: 50%;
+    justify-content: center;
 
     p {
-        width:80% !important;
+        width: 80% !important;
+        text-align: justify;
     }
 }
 
@@ -27,6 +32,20 @@
     background-color: #efefef !important;
     color: #222 !important;
 }
+
+@media only screen and (max-width: 767px){
+    .about-texts {
+        flex-direction: column;
+        div {
+            width: 100% !important;
+            padding: 0;
+        }
+        padding: 0;
+    }
+    
+
+}
+
 // .half-text {
 //     width: 80% !important;
 // }
