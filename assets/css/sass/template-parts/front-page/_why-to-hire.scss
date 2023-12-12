@@ -3,6 +3,7 @@
     .subtitle {
         margin-bottom: 50px !important;
         color: #f2eff2 !important;
+        line-height: 110%;
     }
 }
 
@@ -16,31 +17,42 @@
 .hire-cards {
     display: flex !important;
     color: #ddd;
-    gap: 80px;
+    gap: 50px;
 }
 .hire_card {
-    background: var(--my-smooth-blue);
+    background: var(--my-smooth-black);
     padding: 20px;
 
-    
-    // border-color: #330033;
-    // border-width: 7px;
-    border-radius: 45px;
-    // height: 220px;
-    // background-color: #abd;
+    justify-content: space-between;
+    align-content: center !important;
+
     flex-wrap: wrap;
-    box-shadow: 5px 10px 20px 9px #2A4474;
+    border-color: #696969;
+    border-radius: 45px;
     
-    // h4 {
-    //     margin-top: 50px;
-    // }
     
 }
+
 .hire_card:hover {
     transform: scale(1.1);
     transform: translateY(-5px);
 
     // background-color: rgb(33, 33, 94);
+}
+@media only screen and (max-width: 768px) {
+    .hire-cards {
+        flex-direction: column;
+    }
+    .hire_card{
+        width: auto;
+    }
+}
+
+@media only screen and (max-width: 574px) {
+    .hire-cards {
+        // padding: 30px 15px;
+    
+    }
 }
 
 
