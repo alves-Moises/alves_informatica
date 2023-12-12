@@ -1,0 +1,31 @@
+#l-copyright {
+    text-align: center;
+}
+#r-copyright {
+    text-align: center;
+}
+
+@media only screen and (max-width: 991px){
+
+    .adress-footer {
+        width: 50% !important;
+        p {
+            text-align: center !important;
+        }
+    }
+    
+    .contact-footer {
+        width: 50% !important;
+    }
+    #l-copyright {
+        text-align: center !important;
+    }
+    #r-copyright {
+        text-align: center !important;
+    }
+
+    .footer-title {
+        text-align: center !important;
+    }
+
+}
