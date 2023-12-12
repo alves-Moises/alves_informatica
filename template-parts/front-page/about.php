@@ -10,11 +10,11 @@
             <div class="divider-custom-line"></div>
         </div>
         <!-- About Section Content-->
-        <div class="row">
+        <div class="row about-texts">
             <div class="col-lg-4 half-size pl-1">
                 <p class="lead half-text">
-                    Somos especializados em reparos de notebooks, computadores, video games e outros dispositivos. 
-                    Oferecemos um serviço de qualidade, com profissionais extremamente qualificados e preparados para quaisquer intercorrências com os equipamentos em reparo.
+                    Somos especializados em reparos de computadores, video games e outros dispositivos eletrônicos. 
+                    Oferecemos um serviço de qualidade, com profissionais qualificados.
                 </p>
             </div>
             
@@ -28,13 +28,14 @@
         <!-- About Section Button-->
         <div class="text-center mt-4">
             <a 
-            class="btn btn-xl btn-outline-light btn-contact" 
-            href="https://wa.me/5522999668509?text=Olá,+encontrei+sua+empresa+pelo+seu+site!+Gostaria+de+fazer+um+orçamento+:)"
-            target="_blank"
+                class="btn btn-xl btn-outline-light btn-contact" 
+                href="https://wa.me/5522999668509?text=Olá,+encontrei+sua+empresa+pelo+seu+site!+Gostaria+de+fazer+um+orçamento+:)"
+                target="_blank"
             >
                 <i class="fa-brands fa-whatsapp"></i>
                 Entre em contato!
             </a>
         </div>
     </div>
+    
 </section>
