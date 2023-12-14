@@ -15,12 +15,21 @@
 			<!-- Footer Social Icons-->
 			<div class="col-lg-4 mb-5 mb-lg-0 text-center contact-footer">
 				<h4 class="text-uppercase mb-4 footer-title">Contato</h4>
+
 				<a 
 					class="btn btn-outline-light btn-social mx-1 btn-wpp-footer" 
 					href="https://wa.me/5522999668509?text=Olá,+encontrei+sua+empresa+pelo+seu+site!+Gostaria+de+fazer+um+orçamento+:)"
 					target="_blank"
 				>
 					<i class="fab fa-whatsapp"></i>
+				</a>
+
+				<a 
+					class="btn btn-outline-light btn-social mx-1 btn-lkn-footer" 
+					href="https://www.linkedin.com/in/moises-alves-b1272a204/"
+					target="_blank"
+				>
+					<i class="fa-brands fa-linkedin"></i>
 				</a>
 				
 			</div>
