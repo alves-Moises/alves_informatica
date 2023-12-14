@@ -5,7 +5,6 @@
             page-section-heading
             text-center
             text-uppercase
-            text-secondary
             i-title-dark
             mb-0
         ">
