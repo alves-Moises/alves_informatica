@@ -1,33 +1,42 @@
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 html,
 body {
-  background-color: $bg-base;
-  color: $color-base;
-  font-family: $font-family-base;
-  font-size: $font-size-base;
-  line-height: $line-height-base;
+    background-color: $bg-base;
+    color: $color-base;
+    font-family: $font-family-base;
+    font-size: $font-size-base;
+    line-height: $line-height-base;
 }
 
 a {
-  @extend %transition;
+    
 }
 
 
 section,
 footer {
-  padding: $default-spacing-y $default-spacing-x;
+    padding: $default-spacing-y $default-spacing-x;
 
-  .btn-wpp-footer{
-    background-color: #678d66;
-  }
-  .btn-wpp-footer:hover{
-    color: #678d66;
-    border-color: #678d66;
-  }
+    .btn-wpp-footer{
+        background-color: #678d66;
+    }
+    .btn-wpp-footer:hover{
+        color: #678d66;
+        border-color: #678d66;
+    }
+    
+    .btn-lkn-footer{
+        background-color: #2b6cad;
+    }
+    .btn-lkn-footer:hover{
+        color: #004182;
+        border-color: #2b6cad;
+    }
+
 }
 
