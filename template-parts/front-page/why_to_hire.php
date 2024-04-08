@@ -21,10 +21,10 @@
                     <i class="fa-solid fa-circle-check fa-2xl i-vantagens"></i>
                 </h2>
                 <h4>
-                    Servi&ccedil;os de qualdiade
+                    Servi&ccedil;os de qualidade
                 </h4>
                 <p class="text-left">
-                    Com profissionais qualificados e comprometidos, nós garantimos a sua satisfação.
+                    Equipe qualificada e dedicada fornece soluções de TI que atendem às necessidades específicas de cada cliente.
                 </p>
             </div>
 
@@ -37,7 +37,7 @@
                     <br>
                 </h4>
                 <p class="text-left">
-                    Você paga pelo que precisa e recebe o que contratou.
+                    Pague apenas pelo que necessita e receba exatamente o que contratou, sem taxas ocultas ou promessas vazias.
                 </p>
             </div>
 
