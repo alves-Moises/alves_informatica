@@ -32,7 +32,6 @@
                             Informática
                         </h5>
                     </div>
-                        
                 </div>
             </div>
 
