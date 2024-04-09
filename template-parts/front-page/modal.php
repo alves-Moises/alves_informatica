@@ -275,7 +275,7 @@
                         <div class="col-lg-5 p-3 pl-5">
                             <!-- Portfolio Modal - Text-->
                             <h6 class="">
-                                Nossos serviços relacionados a eletrônica geral:
+                                Nossos serviços relacionados a eletrônica:
                             </h6>
                             <ul class="mt-5">
                                 <li>Troca de componentes</li>
@@ -326,7 +326,7 @@
                         <div class="col-lg-12">
                             <!-- Portfolio Modal - Title-->
                             <h2 class="portfolio-modal-title text-uppercase mb-0 text-center">
-                                Desenvolvimento Web
+                               Web Developer
                             </h2>
                             <!-- Icon Divider-->
                             <div class="divider-custom">
@@ -351,7 +351,8 @@
                         <div class="col-lg-5">
                             <h6>Alguns de nossos serviços relacionados a desenvolvimento web:</h6>
                             <ul class="mt-5">
-                                <li>Desenvolvimento de Landing Page</li>
+                                <li>Site institucional</li>
+                                <li>Landing Page</li>
                                 <li>Manutenção de sites</li>
                                 <li>Atualização Wordpress</li>
                             </ul>
