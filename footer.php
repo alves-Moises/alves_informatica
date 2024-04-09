@@ -31,6 +31,14 @@
 				>
 					<i class="fa-brands fa-linkedin"></i>
 				</a>
+
+				<a 
+					class="btn btn-outline-light btn-social mx-1 btn-gtb-footer" 
+					href="https://github.com/alves-Moises"
+					target="_blank"
+				>
+					<i class="fa-brands fa-github"></i>
+				</a>
 				
 			</div>
 
