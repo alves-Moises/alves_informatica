@@ -34,10 +34,9 @@
                 </h2>
                 <h4>
                     Pre&ccedil;o justo
-                    <br>
                 </h4>
                 <p class="text-left">
-                    Pague apenas pelo que necessita e receba exatamente o que contratou, sem taxas ocultas ou promessas vazias.
+                    Pague apenas pelo que necessita e receba exatamente o que contratou, sem taxas ocultas ou pegadinhas.
                 </p>
             </div>
 
@@ -62,8 +61,6 @@
                 </h4>
                 <p class="text-left">
                     Nossa equipe é experiente, qualificada e atualizada nas novas tecnologias e tendências. 
-                    
-
                 </p>
             </div>
 
