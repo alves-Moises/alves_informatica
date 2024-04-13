@@ -16,3 +16,5 @@ To run:
   
 If you prefer, just run the "compass-activate.py" and will activate the compass-watch:
   py compass-activate.py
+
+
