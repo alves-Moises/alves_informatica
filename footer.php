@@ -8,7 +8,7 @@
 				<h4 class="text-uppercase mb-4 text-right footer-title">Localização</h4>
 				<p class="lead mb-0 pb-1 text-justify">
 					Rua General Osório, 424, apto 306
-					<br />
+					<!-- <br /> -->
 					Centro, Itaperuna RJ
 				</p>
 			</div>
