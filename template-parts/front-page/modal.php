@@ -326,7 +326,7 @@
                         <div class="col-lg-12">
                             <!-- Portfolio Modal - Title-->
                             <h2 class="portfolio-modal-title text-uppercase mb-0 text-center">
-                               Web Developer
+                                Web Developer
                             </h2>
                             <!-- Icon Divider-->
                             <div class="divider-custom">
