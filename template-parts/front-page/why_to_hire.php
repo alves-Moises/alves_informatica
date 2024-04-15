@@ -45,7 +45,7 @@
                     <i class="fa-solid fa-headset fa-2xl i-vantagens"></i>
                 </h2>
                 <h4>
-                    Atendiemnto personalizado
+                    Atendimento personalizado
                 </h4>
                 <p class="text-left">
                     Nós entendemos que cada cliente tem uma necessidade diferente e uma preferência pessoal. 
