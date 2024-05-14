@@ -175,7 +175,7 @@
                         <div class="col-lg-12">
                             <!-- Portfolio Modal - Title-->
                             <h2 class="portfolio-modal-title text-uppercase mb-0 text-center">
-                                Manutençaõ de Video Games
+                                Manutenção de Video Games
                             </h2>
                             <!-- Icon Divider-->
                             <div class="divider-custom">
@@ -199,16 +199,18 @@
                         <div class="col-lg-5 p-3 pl=5">
                             <!-- Portfolio Modal - Text-->
                             <h6 class="center-text">
-                                Alguns de nssos serviços relacionados a manutençaõ de video games:
+                                Alguns de nossos serviços relacionados a manutenção de Video Games:
                             </h6>
                             <ul class="mt-5">
                                 <li>Troca de pasta térmica</li>
                                 <li>Atualização</li>
                                 <li>Jogos para diversos consoles</li>
-                                <li>Reparo em circitos eletrônicos</li>
+                                <li>Reparo em circuitos eletrônicos</li>
                                 <li>Limpeza interna</li>
                                 <li>Reparo em controles</li>
-                                <li>Instlaçaão OPL (para rodar jogos via USB no ps2)</li>
+                                <li>Instalação OPL (para rodar jogos via USB no ps2)</li>
+                                <li>Jogos ps2</li>
+                                <li>Atualização OPL</li>
                             </ul>
                         </div>
 
@@ -368,7 +370,6 @@
                     </div>
                 </div>
             </div>
-            
         </div>
     </div>
 </div>
