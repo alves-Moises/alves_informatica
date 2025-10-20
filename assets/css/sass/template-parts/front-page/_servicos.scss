@@ -4,10 +4,7 @@
     align-items: center;
     text-align: center;
     justify-content: center;
-    
-
 }
-
 
 .div-card {
     border-style: solid;
@@ -21,11 +18,10 @@
             margin: 0.5rem;
         }
     }
-}
 
-.div-card{
     .portfolio-item-caption:hover {
         background-color: #83838381 !important;
+        transition-duration: 500ms;
         // opacity: 0.5;
     }
 }
@@ -45,7 +41,7 @@
         flex-direction: column;
         max-width: 310px;
 
-        >.card-servicos {
+        .card-servicos {
             //div do card em si
             background-color: aqua;
 
@@ -84,8 +80,11 @@
             }
 
             .img-fluid{
-                min-height: 230px;
-                max-height: 230px;
+                // min-height: 300px;
+                // max-height: 230px;
+                // width: 353.98px !important;
+                // height: 236.22px !important;
+                height: auto;
                 @media (max-width: 767px) {
                     aspect-ratio: 4/3;
                     min-height: 300px;
@@ -101,7 +100,6 @@
 
         @media (max-width: 767px) {
             min-width: 90%;            
-            
         }
     }
 }
