@@ -373,3 +373,77 @@
         </div>
     </div>
 </div>
+
+<!-- modal 6 -->
+<div 
+    class="portfolio-modal modal fade" 
+    id="portfolioModal6" 
+    tabindex="-1" 
+    aria-labelledby="portfolioModal5" 
+    aria-hidden="true"
+>
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content">
+            <div class="modal-header border-0">
+                <button 
+                    class="btn-close" 
+                    type="button" 
+                    data-bs-dismiss="modal" 
+                    aria-label="Close"
+                >
+                </button>
+            </div>
+
+            <div class="modal-body pb-5">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-12">
+                            <!-- Portfolio Modal - Title-->
+                            <h2 class="portfolio-modal-title text-uppercase mb-0 text-center">
+                                Suporte Técnico
+                            </h2>
+                            <!-- Icon Divider-->
+                            <div class="divider-custom">
+                                <div class="divider-custom-line i-symbols-line-dark"></div>
+                                <div class="divider-custom-icon"><i class="fa-solid fa-ticket"></i></div>
+                                <div class="divider-custom-line i-symbols-line-dark"></div>
+                            </div>
+                            
+                        </div>
+
+                        <div class="col-lg-5">
+                            <!-- Portfolio Modal - Image-->
+                            <img 
+                                class="img-fluid rounded mb-5" 
+                                src="<?= THEMEROOT ?>/assets/img/servicos/6_suporte_inside.jpg" 
+                                alt="Desenvolvimento web" 
+                            >
+                            <!-- Portfolio Modal - Text-->
+                        </div>
+
+                        
+                        <div class="col-lg-5">
+                            <h6>Alguns de nossos serviços relacionados a suporte para empresas:</h6>
+                            <ul class="mt-5">
+                                <li>Suporte técnico voltado para empresas</li>
+                                <li>Serviços especializados</li>
+                                <li>Atendimento incidentes e sinistros</li>
+                                <li>Infraestrutura de redes e Servidores</li>
+                                <li>Field service</li>
+                                <li>Instalaçaõ e configuraçaõ de equipamentos</li>
+                            </ul>
+                            
+                        </div>
+                        <div class="text-center">
+                            
+                            <button class="mt-4 btn btn-close-modal" data-bs-dismiss="modal">
+                                <i class="fas fa-xmark fa-fw"></i>
+                                Fechar
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
