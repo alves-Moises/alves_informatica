@@ -6,10 +6,8 @@
 			<!-- Footer Location-->
 			<div class="col-lg-4 mb-5 mb-lg-0 adress-footer">
 				<h4 class="text-uppercase mb-4 text-right footer-title">Localização</h4>
-				<p class="lead mb-0 pb-1 text-justify">
-					Rua General Osório, 424, apto 306
-					<!-- <br /> -->
-					Centro, Itaperuna RJ
+				<p class="lead mb-0 pb-1 text-right">
+					Itaperuna RJ
 				</p>
 			</div>
 			<!-- Footer Social Icons-->
