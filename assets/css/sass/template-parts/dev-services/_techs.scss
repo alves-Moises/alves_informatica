@@ -1,0 +1,127 @@
+#techs {
+    color: #fff;
+    background-color: #222;
+}
+
+#tech-container{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.card-tech{
+    padding: 12px;
+    background-color: var(--my-smooth-black);
+    border: 1px solid var(--my-soft-black);
+    
+
+    transition-duration: 0.8s;
+    transition-delay: 0.2s;
+
+    .tech-i{
+        font-size: 40px;
+        color: #d02;
+    }
+
+    .list-icon-tech{
+    
+        display: flex;
+        justify-content: space-around;
+        gap: 12px;
+
+        .tech-svg{
+            width: 50px;
+            height: 50px;
+            margin-top: 3px;
+            transition: transform .8s;
+            animation-duration: 0.6s;
+            animation-delay: 0.5s;
+        }
+        
+        .tech-svg:hover{
+            animation-duration: 0.6s;
+            animation-delay: 0.5s;
+            transform: scale(1.2) rotate(5deg);
+            filter: brightness(1.5);
+            
+            // background-color: #fff;
+            // box-shadow: 5px 8px #fff;
+        }
+
+        #tech-svg-html5{
+            fill: #E34F26;
+        }
+
+        #tech-svg-css3{
+            fill: #264de4;
+        }
+
+        #tech-svg-js{
+            fill: #F7DF1E;
+        }
+
+        #tech-svg-nodejs{
+            fill: #5FA04E;
+        }
+
+        #tech-svg-php{
+            fill: #777BB4;
+        }
+
+        #tech-svg-py{
+            fill: #3776AB;
+        }
+
+        #tech-svg-wp{
+            fill: #217598;
+        }
+
+        #tech-svg-react{
+            fill: #61DAFB;
+        }
+
+        #tech-svg-laravel{
+            fill: #FF2D20;
+        }
+
+        #tech-svg-django{
+            fill: #092E20;
+            height: 50px;
+            path {
+                stroke: #ddd;        /* The color of the border */
+                stroke-width: 1px;  /* The thickness of the border */
+                paint-order: stroke;  /* Ensures the border is behind the fill */
+            }
+        }
+
+        #tech-svg-fastApi{
+            fill: #009688;
+        }
+
+        #tech-svg-bootstrap{
+            fill: #7952B3;
+        }
+
+        #tech-svg-sass{
+            fill: #CC6699;
+        }
+
+        #tech-svg-swagger{
+            fill: #85EA2D;
+        }
+    }
+}
+
+.card-tech:hover{
+    transition-duration: 1s;
+    transition-delay: 0.4s;
+    box-shadow: 
+        rgba(131, 131, 131, 0.1) 0px 4px 16px, 
+        rgba(63, 60, 60, 0.1) 0px 8px 24px, 
+        rgba(48, 47, 47, 0.267) 0px 16px 56px;    
+    border: 1px solid #4e0905;
+}
