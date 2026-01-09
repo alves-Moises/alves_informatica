@@ -193,3 +193,17 @@
         rgba(48, 47, 47, 0.267) 0px 16px 56px;    
     border: 1px solid #e55f4f;
 }
+
+@media screen and (max-width: 1000px){
+
+    #tech-container{
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        gap: 32px;
+    }
+
+    .card-tech{
+        justify-content: space-evenly;
+    }
+}
