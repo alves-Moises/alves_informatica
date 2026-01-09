@@ -23,6 +23,12 @@
     transition-duration: 0.8s;
     transition-delay: 0.2s;
 
+    .card-body{
+        .card-title{
+            margin-bottom: 36px;
+        }
+    }
+
     .tech-i{
         font-size: 40px;
         color: #e55f4f;
