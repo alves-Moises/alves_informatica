@@ -3,7 +3,7 @@
 >
     <div class="container">
         <div class="row">
-            <div class="col-lg-7 pt-3 pr-5 text-justify">
+            <div class="col-lg-7 pt-3 text-justify presentation">
                 <h1 class="pl-3 mb-4">
                     Quem sou eu
                 </h1>
@@ -23,7 +23,7 @@
                 </p>
             </div>
 
-            <div class="col-lg-5">
+            <div class="col-lg-5 image-container">
                 <img 
                     id="sprite"
                     src="<?= THEMEROOT ?>/assets/img/photos/me.jpg"
