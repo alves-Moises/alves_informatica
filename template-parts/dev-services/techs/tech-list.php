@@ -3,7 +3,7 @@
 >
     <div class="card-body">
         <i 
-            class="fa-solid fa-language fa-lg tech-i mb-3" 
+            class="fa-solid fa-code fa-lg tech-i mb-3" 
         ></i>
         <h3 class="card-title">Linguagens</h3>
         <?php
@@ -26,12 +26,10 @@
 
 <div class="card card-tech">
     <div class="card-body">
-        <i class="fa-solid fa-gears fa-lg tech-i mb-3"></i>
-
-
-        <h3 class="card-title">Softwares</h3>
+        <i class="fa-solid fa-toolbox fa-lg tech-i mb-3"></i>
+        <h3 class="card-title">Tools</h3>
         <?php
-            get_template_part("template-parts/dev-services/techs/soft-list");
+            get_template_part("template-parts/dev-services/techs/tool-list");
         ?>
     </div>
 
