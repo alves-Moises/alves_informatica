@@ -7,3 +7,22 @@
     border-radius: 10px;
     border: 1px  solid #000;
 }
+
+.presentation{
+    padding-right: 5rem;
+}
+
+@media screen and (max-width: 992px){
+    .presentation{
+        padding-right: 0;
+
+    }
+    .image-container{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        margin-top: 36px;
+    }
+
+}
