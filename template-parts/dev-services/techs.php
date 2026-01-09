@@ -3,12 +3,12 @@
 >
     <div class="container">
         <div class="row">
-            <h1 class="text-center">Techs</h1>
+            <h1 class="text-center mb-0">Techs</h1>
 
             <!-- Icon Divider-->
-            <div class="divider-custom">
+            <div class="divider-custom mt-2 mb-5">
                 <div class="divider-custom-line i-symbols-line"></div>
-                <div class="divider-custom-icon"><i class="fa-solid fa-code" style="color: #ffffff;"></i></div>
+                <div class="divider-custom-icon"><i class="fa-solid fa-microchip" style="color: #ffffff;"></i></div>
                 <div class="divider-custom-line i-symbols-line"></div>
             </div>
 
