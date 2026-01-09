@@ -1,6 +1,7 @@
 #techs {
     color: #fff;
     background-color: #222;
+    border-bottom: 1px solid var(--my-soft-black);
 }
 
 #tech-container{
@@ -24,13 +25,14 @@
 
     .tech-i{
         font-size: 40px;
-        color: #d02;
+        color: #e55f4f;
     }
 
     .list-icon-tech{
     
         display: flex;
         justify-content: space-around;
+        flex-wrap: wrap;
         gap: 12px;
 
         .tech-svg{
@@ -113,6 +115,66 @@
         #tech-svg-swagger{
             fill: #85EA2D;
         }
+
+        #tech-svg-c{
+            fill: #A8B9CC;
+        }
+
+        #tech-svg-cpp{
+            fill: #00599C;
+        }
+
+        #tech-svg-postman{
+            fill: #FF6C37;
+        }
+
+        #tech-svg-github{
+            fill: #181717;
+        }
+
+        #tech-svg-git{
+            fill: #F05032;
+        }
+
+        #tech-svg-xampp{
+            fill: #FB7A24;
+        }
+
+        #tech-svg-filezila{
+            fill: #BF0000;
+        }
+
+        #tech-svg-drawio{
+            fill: #F08705;
+        }
+
+        #tech-svg-figma{
+            fill: #F24E1E;
+        }
+
+        #tech-svg-npm{
+            fill: #CB3837;
+        }
+
+        #tech-svg-vite{
+            fill: #646CFF;
+        }
+
+        #tech-svg-docker{
+            fill: #2496ED;
+        }
+
+        #tech-svg-trello{
+            fill: #0052CC;
+        }
+
+        #tech-svg-miro{
+            fill: #050038;
+        }
+
+        #tech-svg-mint{
+            fill: #86BE43;
+        }
     }
 }
 
@@ -123,5 +185,5 @@
         rgba(131, 131, 131, 0.1) 0px 4px 16px, 
         rgba(63, 60, 60, 0.1) 0px 8px 24px, 
         rgba(48, 47, 47, 0.267) 0px 16px 56px;    
-    border: 1px solid #4e0905;
+    border: 1px solid #e55f4f;
 }
