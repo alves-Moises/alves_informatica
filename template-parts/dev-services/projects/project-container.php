@@ -10,7 +10,7 @@
 
             array(
                 "title" => "Alves Informática",
-                "desc" => "Meu site institucional como foco em divulgar meus serviços em diversas área de ti.",
+                "desc" => "Meu site institucional com foco em divulgar meus serviços em diversas área de t.i.",
                 "techs" => array("html5", "css3", "javascript", "php", "wordpress", "bootstrap5", "sass"),
                 "github" => "https://github.com/alves-Moises/alves_informatica",
                 "url" => "https://alves-informatica.com"
