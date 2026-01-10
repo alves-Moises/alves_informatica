@@ -1,0 +1,153 @@
+#projects{
+    background-color: var(--my-smooth-black);
+    color: #ddd;
+
+    #project-cards{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap: 70px;
+
+        .project-card{
+            background-color: var(--my-soft-black);
+            padding: 8px;
+            .card-body{
+                display: flex;
+                flex-direction: column;
+            }
+
+            .card-body:last-child{
+                margin-top: auto;
+                align-self: baseline;
+            }
+
+            .card-body{
+                display: flex;
+            }      
+
+            .card-icon-div{
+
+                width: 100%;
+
+                .card-icon{
+                    height: 48px;
+                }
+            }
+
+            .desc{
+                flex-wrap: wrap;
+            }
+            .tech-list{
+                display: flex;
+                gap: 8px;
+                flex-wrap: wrap;
+
+                .tech{
+                    border: 1px solid #ddd;
+                    padding: 2px;
+                    border-radius: 4px;
+                    font-size: small;
+
+                    transition-duration: 0.5s;
+                    transition-delay: 0.2s;
+                }
+
+                .tech:hover{
+                    border-color: $peach;
+                    filter: brightness(1.2);
+
+                    transition-duration: 0.5s;
+                    transition-delay: 0.2s;
+                }
+            }
+
+            .links{
+                display: flex;
+                justify-content: space-between;
+                align-items: flex-end;
+                // margin-top: 24px;
+                margin: 16px;
+                
+                .side{
+                    width: 40%;
+                    
+                    .project-link{
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+                        justify-content: center;
+                        padding: 0;
+                        
+                        border: 1px solid black;
+                        border-radius: 4px;
+                        
+                        transition-delay: 0.2s;
+                        transition-duration: 0.5s;
+
+                        a{
+                            display: flex;
+                            align-items: center;
+                            justify-content: space-around;
+                            width: 100%;
+                            text-decoration: none;
+                            padding: 4px;
+                            
+                        }
+                        .project-gh-logo{
+                                height: 30px;
+                                color: #181717;
+
+                                transition-delay: 0.2s;
+                                transition-duration: 0.5s;
+                        }
+
+                        .project-gh-logo:hover{
+                            filter: brightness(1.5);
+                            transition-delay: 0.2s;
+                            transition-duration: 0.5s;
+                        }
+
+                        .project-url-logo{
+                            height: 30px;
+                            color: #cacaca;
+
+                            transition-delay: 0.2s;
+                            transition-duration: 0.5s;
+                        }
+
+                        .project-url-logo:hover{
+                            filter: brightness(1.5);
+                            
+                            transition-delay: 0.2s;
+                            transition-duration: 0.5s;
+                        }
+                    }   
+
+                    .project-link:hover{
+                        transform: scale(1.1);
+                        border: #ddd 1px solid;
+
+
+                        transition-delay: 0.2s;
+                        transition-duration: 0.5s;
+                    }
+                }
+            }
+
+            
+
+            
+        }
+
+        .project-card:hover{
+            transition-duration: 0.5s;
+            transition-delay: 0.3s;
+
+            border: 1px solid $peach;
+            box-shadow: 
+            rgba(131, 131, 131, 0.1) 0px 4px 16px, 
+            rgba(63, 60, 60, 0.1) 0px 8px 24px, 
+            rgba(48, 47, 47, 0.267) 0px 16px 56px; 
+        }
+    }
+}
