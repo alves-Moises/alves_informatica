@@ -53,7 +53,7 @@
                 <?php 
                     if ($github)
                         echo "
-                            <div class=\"project-link\">
+                            <div class='project-link gh-link'>
 
                                 <a href={$github} target=\"_blank\"> 
                                     <span> Ver no github</span>
@@ -69,7 +69,7 @@
                 <?php 
                     if ($url)
                         echo "
-                            <div class=\"project-link\">
+                            <div class='project-link url-link'>
                                 
                                 <a href={$url} target=\"_blank\"> 
                                     <span>Visite</span>
