@@ -71,6 +71,27 @@
                 .side{
                     width: 40%;
                     
+                    .gh-link{
+                        a{
+                            border-radius: 8px;
+                            background-color: $peach;
+                            border: 1px solid #ddd;
+                            color: #efefef;
+
+                        }
+                    }
+
+                    .url-link{
+                        a{
+                            border-radius: 8px;
+                            background-color: #ddd;
+                            border: 1px solid #222;
+                            color: #cc3516;
+                        }
+                    }
+
+
+
                     .project-link{
                         display: flex;
                         flex-direction: column;
