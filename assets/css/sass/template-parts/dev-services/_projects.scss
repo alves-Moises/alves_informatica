@@ -134,7 +134,12 @@
                     .project-link:hover{
                         transform: scale(1.1);
                         border: #ddd 1px solid;
+                        filter: brightness(1.2);
 
+                        box-shadow: 
+                        rgba(131, 131, 131, 0.1) 0px 4px 16px, 
+                        rgba(63, 60, 60, 0.1) 0px 8px 24px, 
+                        rgba(48, 47, 47, 0.267) 0px 16px 56px; 
 
                         transition-delay: 0.2s;
                         transition-duration: 0.5s;
