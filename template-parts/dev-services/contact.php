@@ -37,8 +37,6 @@
                         Linkedin
                     </span>    
                     <i class="fa-brands fa-linkedin contact-i">
-
-                    </i>
                     </i>
                 </a>
 
