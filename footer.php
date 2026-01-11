@@ -59,8 +59,8 @@
 
 			<!-- Footer links Text-->
 			<div class="col-lg-4">
-				<h4 class="text-uppercase mb-4 footer-title" id="about-title">Serviços</h4>
-				<p class="lead mb-0 pb-1 text-justify">
+				<h4 class="text-uppercase mb-2 footer-title" id="about-title">Serviços</h4>
+				<p class="lead mb-5 mt-2 pb-1 service-p-link">
 					<a href="<?php echo esc_url(home_url("/dev-services")); ?>">Desenvolvimento</a>
 				</p>
 			</div>
