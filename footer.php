@@ -66,7 +66,10 @@
 			</div>
 			
 			<div class="col-lg-6 text-center text-lg-left">
-				<p class="text-center" id="l-copyright">&copy; <?= date('Y') . ' ' . get_bloginfo('name') ?>, todos os direitos reservados.</p>
+				<p class="text-center" id="l-copyright">
+					&copy; <?= date('Y') . ' ' . get_bloginfo('name') ?>
+					, todos os direitos reservados.
+				</p>
 			</div>
 
 			<div class="col-lg-6 text-center text-lg-right">
