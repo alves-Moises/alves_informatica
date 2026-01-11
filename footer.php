@@ -44,7 +44,7 @@
 			<div class="col-lg-4">
 				<h4 class="text-uppercase mb-4 footer-title" id="about-title">Serviços</h4>
 				<p class="lead mb-0 pb-1 text-justify">
-					<a href="<?php esc_url(home_url("/dev-services")); ?>">Desenvolvimento</a>
+					<a href="<?php echo esc_url(home_url("/dev-services")); ?>">Desenvolvimento</a>
 				</p>
 			</div>
 			
