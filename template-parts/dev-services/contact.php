@@ -17,7 +17,7 @@
                 <a 
                     class="contact-link"
                     id="email-link"
-                    href="mailto:moisesinho_ra@hotmail.com?subject=Servicos+de+TI"
+                    href="mailto:contato@alves-informatica.com?subject=Servicos+de+TI"
                     target="_blank"
                 >
                     <span>
