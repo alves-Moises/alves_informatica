@@ -65,6 +65,7 @@
 				</p>
 			</div>
 			
+			<!-- Copyright -->
 			<div class="col-lg-6 text-center text-lg-left">
 				<p class="text-center" id="l-copyright">
 					&copy; <?= date('Y') . ' ' . get_bloginfo('name') ?>
@@ -72,6 +73,7 @@
 				</p>
 			</div>
 
+			<!-- Copyright -->
 			<div class="col-lg-6 text-center text-lg-right">
 				<p id="r-copyright">Um desenvolvimento 
 					<a href="<?php the_permalink("/") ?>" target="_blank" rel="noopener" title="Alves Informaticatem como">
