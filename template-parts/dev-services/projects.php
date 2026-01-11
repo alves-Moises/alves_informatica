@@ -13,7 +13,7 @@
                     <i 
                         class="fa-solid fa-clipboard-list"
                         style="color: #ffffff;"
-                    ></i>
+                    >
                     </i>
                 </div>
                 <div class="divider-custom-line i-symbols-line"></div>
