@@ -22,18 +22,18 @@ section,
 footer {
     padding: $default-spacing-y $default-spacing-x;
 
-    .btn-wpp-footer{
+    #btn-wpp-footer{
         background-color: #678d66;
     }
-    .btn-wpp-footer:hover{
+    #btn-wpp-footer:hover{
         color: #678d66;
         border-color: #678d66;
     }
     
-    .btn-lkn-footer{
+    #btn-lkn-footer{
         background-color: #2b6cad;
     }
-    .btn-lkn-footer:hover{
+    #btn-lkn-footer:hover{
         color: #004182;
         border-color: #2b6cad;
     }
@@ -51,7 +51,7 @@ footer {
         background-color: #2d2d2d;
     }
 
-    .btn-gtb-footer:hover{
+    #btn-gtb-footer:hover{
         color:#2d2d2d;
         border-color:#2d2d2d
     }
