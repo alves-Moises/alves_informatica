@@ -37,7 +37,18 @@
 				</a>
 
 				<a 
-					class="btn btn-outline-light btn-social mx-1 btn-gtb-footer" 
+					class="btn btn-outline-light btn-social mx-1"
+					id="btn-mail-footer"
+					target="_blank"
+					href="mailto:contato@alves-informatica.com?subject=Servicos+de+TI"
+				>
+					<i class="fa-solid fa-envelope"></i>
+				</a>
+
+
+				<a 
+					class="btn btn-outline-light btn-social mx-1"
+					id="btn-gtb-footer" 
 					href="https://github.com/alves-Moises"
 					target="_blank"
 				>
