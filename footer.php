@@ -40,12 +40,11 @@
 				
 			</div>
 
-			<!-- Footer About Text-->
+			<!-- Footer links Text-->
 			<div class="col-lg-4">
-				<h4 class="text-uppercase mb-4 footer-title" id="about-title">Sobre nós</h4>
-				<p class="lead mb-0 pb-1 text-justify" id="about-text">
-					Somos uma empresa especializada em serviços de TI e desenvolvimento de software. 
-					Nosso objetivo é oferecer soluções tecnológicas.
+				<h4 class="text-uppercase mb-4 footer-title" id="about-title">Serviços</h4>
+				<p class="lead mb-0 pb-1 text-justify">
+					<a href="<?php esc_url(home_url("/dev-services")); ?>">Desenvolvimento</a>
 				</p>
 			</div>
 			
