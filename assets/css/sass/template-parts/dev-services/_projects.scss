@@ -1,5 +1,5 @@
 #projects{
-    background-color: var(--my-smooth-black);
+    background-color: #222;
     color: #ddd;
 
     #project-cards{
@@ -138,9 +138,9 @@
                         filter: brightness(1.2);
 
                         box-shadow: 
-                        rgba(131, 131, 131, 0.1) 0px 4px 16px, 
-                        rgba(63, 60, 60, 0.1) 0px 8px 24px, 
-                        rgba(48, 47, 47, 0.267) 0px 16px 56px; 
+                        rgba(148, 148, 148, 0.1) 0px 4px 8px, 
+                        rgba(153, 23, 23, 0.1) 0px 8px 16px, 
+                        rgba(75, 75, 75, 0.267) 0px 8px 32px; 
 
                         transition-delay: 0.2s;
                         transition-duration: 0.5s;
@@ -157,11 +157,11 @@
             transition-duration: 0.5s;
             transition-delay: 0.3s;
 
-            border: 1px solid $peach;
+            // border: 1px solid $peach;
             box-shadow: 
-            rgba(131, 131, 131, 0.1) 0px 4px 16px, 
-            rgba(63, 60, 60, 0.1) 0px 8px 24px, 
-            rgba(48, 47, 47, 0.267) 0px 16px 56px; 
+            rgba(51, 10, 10, 0.1) 0px 4px 16px, 
+            rgba(97, 14, 14, 0.1) 0px 8px 24px, 
+            rgba(68, 10, 10, 0.267) 0px 16px 56px; 
         }
     }
 }
