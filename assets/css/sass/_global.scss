@@ -37,8 +37,17 @@ footer {
         color: #004182;
         border-color: #2b6cad;
     }
+
+    #btn-mail-footer{
+        background-color: #e55f4f;;
+    }
+
+    #btn-mail-footer:hover{
+        border: 1px solid #e55f4f;
+        color: #c54b3d;
+    }
     
-    .btn-gtb-footer{
+    #btn-gtb-footer{
         background-color: #2d2d2d;
     }
 
