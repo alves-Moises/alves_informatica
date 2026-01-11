@@ -1,0 +1,6 @@
+{
+    "prettier.prettierPath": "",
+    "prettier.resolveGlobalModules": true,
+    "prettier.singleAttributePerLine": false,
+    "intelephense.codeLens.parent.enable": true
+}
