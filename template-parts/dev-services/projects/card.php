@@ -37,7 +37,7 @@
             <?php
                 foreach($techs as $tech){
                     echo "
-                        <span class=\"tech\">${tech}</span>
+                        <span class='tech'>${tech}</span>
                     ";
                 }
             ?>
@@ -55,7 +55,7 @@
                         echo "
                             <div class='project-link gh-link'>
 
-                                <a href={$github} target=\"_blank\"> 
+                                <a href={$github} target='_blank'> 
                                     <span> Ver no github</span>
                                     <i class=\"fa-brands fa-github project-gh-logo\"></i>
                                 </a>
@@ -71,9 +71,9 @@
                         echo "
                             <div class='project-link url-link'>
                                 
-                                <a href={$url} target=\"_blank\"> 
+                                <a href={$url} target='_blank'> 
                                     <span>Visite</span>
-                                    <i class=\"fa-solid fa-up-right-from-square project-url-logo\"></i>
+                                    <i class='fa-solid fa-up-right-from-square project-url-logo'></i>
                                 </a>
                             </div>
                         ";
