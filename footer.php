@@ -27,7 +27,8 @@
 				</a>
 
 				<a 
-					class="btn btn-outline-light btn-social mx-1 btn-lkn-footer" 
+					class="btn btn-outline-light btn-social mx-1"
+					id="btn-lkn-footer" 
 					href="https://www.linkedin.com/in/moises-alves-b1272a204/"
 					target="_blank"
 				>
