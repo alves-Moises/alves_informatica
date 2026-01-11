@@ -1,5 +1,5 @@
 /*!
-* Copyright 2024 - Alves informatica
+* Copyright 2026 - Alves informatica
 * Licensed under MIT (https://github.com/alves-Moises)
 */
 //
