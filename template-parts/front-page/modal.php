@@ -359,6 +359,9 @@
                                 <li>Atualização Wordpress</li>
                             </ul>
                             
+                            <div class="btn-container">
+                                <a href="<?php echo esc_url( home_url( '/dev-services' ) ); ?>">Ver mais</a>
+                            </div>
                         </div>
                         <div class="text-center">
                             
