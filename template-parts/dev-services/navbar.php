@@ -73,7 +73,7 @@
                         " 
                         href="#projects"
                     >
-                        Projects
+                        Projetos
                     </a>
                 </li>
 
