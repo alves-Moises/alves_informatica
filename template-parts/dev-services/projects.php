@@ -11,7 +11,7 @@
                 <div class="divider-custom-line i-symbols-line"></div>
                 <div class="divider-custom-icon">
                     <i 
-                        class="fa-solid fa-microchip" 
+                        class="fa-solid fa-clipboard-list"
                         style="color: #ffffff;"
                     >
                     </i>
