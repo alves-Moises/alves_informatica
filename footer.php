@@ -1,6 +1,9 @@
 <footer>
 	<div class="container">
-		<div class="row">
+		<div 
+			class="row"
+			id="footer-row"
+		>
 
 		
 			<!-- Footer Location-->
