@@ -17,7 +17,7 @@
             ),
 
             array(
-                "title" => "GetiOxy",
+                "title" => "GetinOxy",
                 "desc" => "Aplicação voltada para saúde respiratória com foco em jovens (backend)",
                 "techs" => array("React", "React native",  "Html5", "Css3", "Javascript", "Python", "Django", "FastApi", "Mysql"),
                 "url" => "https://www.getinoxy.com.br/"
