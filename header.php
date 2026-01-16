@@ -12,7 +12,7 @@
 		<?php 
 			echo is_front_page() ? '' : wp_title('', false) . ' | ';
 			bloginfo('name'); 
-			?>
+		?>
 	</title>
 
 	<!-- Favicon-->
