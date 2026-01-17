@@ -26,7 +26,7 @@
             </div>
 
             <dv 
-                class="col-lg-6"
+                class="col-lg-6 "
                 id="it-services-rside"    
             >
 
