@@ -4,13 +4,24 @@
             <div
                 class="col-lg-6"
             >
-                <h3>A solução para o seu negócio!</h3>
-                <p>Oferecemos soluções de Ti para diversos segmentos</p>
+                <h1
+                    class="text-left"
+                >
+                    A solução para o seu negócio!
+                </h1>
+                <h4
+                    class="text-left"
+                >
+                    Oferecemos soluções de Ti para diversos segmentos
+                </h4>
 
                 <a 
                     href=""
                     id="a-scroll"
-                >Ver mais</a>
+                    class="text-left"
+                >
+                    Ver mais
+                </a>
             </div>
 
             <dv 
