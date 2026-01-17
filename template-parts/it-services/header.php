@@ -17,7 +17,10 @@
                 class="col-lg-6"
                 id="it-services-rside"    
             >
-                <img src="<?= THEMEROOT ?>/assets/img/it-services/notebook.jpg" alt="">
+
+                <?php 
+                    get_template_part("template-parts/it-services/header-carousel/carousel-container");
+                ?>
             </dv>
         </div>
     </div>
