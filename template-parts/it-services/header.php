@@ -2,7 +2,8 @@
     <div class="container">
         <div class="row">
             <div
-                class="col-lg-6"
+                class="col-lg-6 pt-5 px-3"
+                id="it-services-lside"
             >
                 <h1
                     class="text-left"
