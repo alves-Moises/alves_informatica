@@ -8,8 +8,16 @@
     }
 
     #it-services-rside{
-        img{
-            width: 300px;
-        }
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        // background-color: aquamarine;
+
+        border: 1px solid black;
+        background-color: #503f4a;
+        padding: 20px;
+        border-radius: 8px;
     }
 }
