@@ -1,0 +1,26 @@
+
+
+#carousel-container{
+    // background-color: rgb(49, 47, 48);
+
+    .carousel-title{
+        color: #ddd;
+        text-align: center;
+        margin-top: 16px;
+        margin-bottom: 40px;
+    }
+
+    .carousel-inner{
+        .carousel-item{
+            border-radius: 2px;
+            border: 1px solid #a89;
+            background-color: rgb(49, 47, 48);
+            
+            .carousel-image{
+                border-bottom: 1px solid #a89;
+                border-radius: 2px;
+
+            }
+        }
+    }
+}
